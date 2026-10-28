@@ -28,7 +28,7 @@
 
 - 🔭 维护 **[BomberStudio](https://github.com/Hoshino486/BomberStudio)** —— 面向 Windows 的 Unity 资源浏览 / 预览 / 导出工具，支持 UnityCN 与多种游戏容器
 - 🗺️ 给 CS2 做 ZE 地图，也给跑图服写 **[ZePractice](https://github.com/Hoshino486/ZePractice)** 插件
-- 🎨 解包 / 绑骨 / 皮肤 / 动画，偶尔在 B 站发点模型鉴赏
+- 🎨 解包 / 模型 / 皮肤 / 动画，偶尔在 B 站发点模型鉴赏
 - 🌐 更多文章与日常都在 **[cybermot.bomber.asia](https://cybermot.bomber.asia/)**
 
 ## 在做的东西 <sub>PROJECTS</sub>
@@ -40,7 +40,14 @@
 | **[ZePractice](https://github.com/Hoshino486/ZePractice)** | CS2 ZE 跑图服插件：练习模式、指挥系统、换图投票、工坊更新、诊断 HUD | `C#` · `CounterStrikeSharp` |
 | **[cybermot-site](https://github.com/Hoshino486/cybermot-site)** | 个人博客：文章、项目、照片墙、音乐与碎碎念 | `TypeScript` |
 | **[CS2-Character-skin-file](https://github.com/Hoshino486/CS2-Character-skin-file)** | CS2 角色皮肤文件，用来做地图皮肤 | `Source 2` |
-| **[Unpackaging-tools](https://github.com/Hoshino486/Unpackaging-tools)** | 解包工具与关键文件的备份 | `Tooling` |
+| **[Unpackaging-tools](https://github.com/Hoshino486/Unpackaging-tools)** | 解包工具与关键文件的备份，防止误删 | `—` |
+
+## 最近在写 <sub>JOURNAL</sub>
+
+- [ZePractice：给 CS2 跑图服写的插件](https://cybermot.bomber.asia/posts/ze-practice) —— 练习模式、指挥、换图投票与诊断 HUD
+- [从零搭一个 CS2 跑图服，并装上 ZePractice](https://cybermot.bomber.asia/posts/local-ze-server) —— SteamCMD、Metamod、CS2Fixes 与 CounterStrikeSharp 全流程
+- [BomberStudio Blender Bridge：把导出的模型接进 Blender](https://cybermot.bomber.asia/posts/bomberstudio-blender) —— 导入、材质、图集与 FBX 导出
+- [BomberStudio 使用指南：从加载到导出](https://cybermot.bomber.asia/posts/bomberstudio-guide) —— 选配置、加载资源、预览与导出
 
 ## 博客里还有什么 <sub>ELSEWHERE</sub>
 
